@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#090910"/>
+  <g opacity=".95">
+    <path d="M52 123 C175 40 248 66 345 95 C458 129 580 27 783 77" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+    <path d="M84 176 L236 113 L389 183 L555 101 L824 153" fill="none" stroke="#ff1744" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 257 C227 170 361 335 496 226 S706 145 822 269" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M146 422 L280 278 L402 464 L535 300 L764 480" fill="none" stroke="#ff1744" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M92 507 C210 574 312 460 435 526 C551 589 673 525 815 571" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <g font-family="Impact, sans-serif" font-weight="900" fill="#fff" stroke="#000" stroke-width="6" paint-order="stroke" transform="rotate(-7 450 310)">
+    <text x="120" y="265" font-size="90">CODE</text>
+    <text x="330" y="360" font-size="120" fill="#ff1744">GRIMM</text>
+    <text x="165" y="455" font-size="76">MOBILE • WEB • GAME</text>
+  </g>
+  <g opacity=".28" fill="#fff">
+    <circle cx="700" cy="210" r="8"/><circle cx="730" cy="230" r="8"/><circle cx="760" cy="250" r="8"/><circle cx="790" cy="270" r="8"/>
+    <circle cx="702" cy="250" r="8"/><circle cx="732" cy="270" r="8"/><circle cx="762" cy="290" r="8"/><circle cx="792" cy="310" r="8"/>
+  </g>
+</svg>
