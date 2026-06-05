@@ -1,0 +1,16 @@
+Versão ajustada do portfólio Caio Lucas // Grimm
+
+Direção visual:
+- Sem usar imagens oficiais de Persona 5 ou Gachiakuta.
+- Inspiração no menu Persona 5: menus diagonais, cortes agressivos, preto/branco/vermelho, movimento rápido.
+- Inspiração Gachiakuta/grafite: letras glitch/street, textura suja, halftone, manchas, tags, colagem urbana, estética rock.
+
+Como rodar:
+1. npm install --legacy-peer-deps
+2. npm run dev
+3. Abrir http://localhost:3000
+
+Build para hospedar:
+npm run build
+
+A pasta final gerada será dist/
